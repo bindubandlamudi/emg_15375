@@ -43,7 +43,7 @@ bssBANK2 BANK2 1 120 120 32 1
 dataBANK0 BANK0 1 4D 4D 6 1
 clrtext CODE 0 E2A E2A C 2
 bssCOMMON COMMON 1 7D 7D 1 1
-$C:\Users\C20590\AppData\Local\Temp\sioc.obj
+$C:\Users\C20590\AppData\Local\Temp\sb64.obj
 reset_vec CODE 0 0 0 2 2
 end_init CODE 0 38 38 2 2
 config CONFIG 0 8007 8007 5 2
@@ -173,132 +173,132 @@ STRING 107D-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\EMG_15375_Actual.X.production.obj
-3A cinit CODE >9328:C:\Users\C20590\AppData\Local\Temp\sioc.
-3A cinit CODE >9331:C:\Users\C20590\AppData\Local\Temp\sioc.
-3A cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.h
-3B cinit CODE >9449:C:\Users\C20590\AppData\Local\Temp\sioc.
-3C cinit CODE >9451:C:\Users\C20590\AppData\Local\Temp\sioc.
-3D cinit CODE >9453:C:\Users\C20590\AppData\Local\Temp\sioc.
-3E cinit CODE >9455:C:\Users\C20590\AppData\Local\Temp\sioc.
-3F cinit CODE >9457:C:\Users\C20590\AppData\Local\Temp\sioc.
-40 cinit CODE >9459:C:\Users\C20590\AppData\Local\Temp\sioc.
-41 cinit CODE >9482:C:\Users\C20590\AppData\Local\Temp\sioc.
-42 cinit CODE >9483:C:\Users\C20590\AppData\Local\Temp\sioc.
-43 cinit CODE >9484:C:\Users\C20590\AppData\Local\Temp\sioc.
-44 cinit CODE >9485:C:\Users\C20590\AppData\Local\Temp\sioc.
-45 cinit CODE >9486:C:\Users\C20590\AppData\Local\Temp\sioc.
-46 cinit CODE >9487:C:\Users\C20590\AppData\Local\Temp\sioc.
-47 cinit CODE >9489:C:\Users\C20590\AppData\Local\Temp\sioc.
-48 cinit CODE >9490:C:\Users\C20590\AppData\Local\Temp\sioc.
-4B cinit CODE >9498:C:\Users\C20590\AppData\Local\Temp\sioc.
-4C cinit CODE >9494:C:\Users\C20590\AppData\Local\Temp\sioc.
-4D cinit CODE >9499:C:\Users\C20590\AppData\Local\Temp\sioc.
-4E cinit CODE >9500:C:\Users\C20590\AppData\Local\Temp\sioc.
-4F cinit CODE >9501:C:\Users\C20590\AppData\Local\Temp\sioc.
-50 cinit CODE >9502:C:\Users\C20590\AppData\Local\Temp\sioc.
-51 cinit CODE >9503:C:\Users\C20590\AppData\Local\Temp\sioc.
-52 cinit CODE >9504:C:\Users\C20590\AppData\Local\Temp\sioc.
-53 cinit CODE >9505:C:\Users\C20590\AppData\Local\Temp\sioc.
-54 cinit CODE >9506:C:\Users\C20590\AppData\Local\Temp\sioc.
-57 cinit CODE >9510:C:\Users\C20590\AppData\Local\Temp\sioc.
-58 cinit CODE >9511:C:\Users\C20590\AppData\Local\Temp\sioc.
-59 cinit CODE >9512:C:\Users\C20590\AppData\Local\Temp\sioc.
-5A cinit CODE >9513:C:\Users\C20590\AppData\Local\Temp\sioc.
-5B cinit CODE >9514:C:\Users\C20590\AppData\Local\Temp\sioc.
-5C cinit CODE >9515:C:\Users\C20590\AppData\Local\Temp\sioc.
-5D cinit CODE >9516:C:\Users\C20590\AppData\Local\Temp\sioc.
-5E cinit CODE >9517:C:\Users\C20590\AppData\Local\Temp\sioc.
-5F cinit CODE >9518:C:\Users\C20590\AppData\Local\Temp\sioc.
-62 cinit CODE >9524:C:\Users\C20590\AppData\Local\Temp\sioc.
-62 cinit CODE >9526:C:\Users\C20590\AppData\Local\Temp\sioc.
-63 cinit CODE >9527:C:\Users\C20590\AppData\Local\Temp\sioc.
-64 cinit CODE >9528:C:\Users\C20590\AppData\Local\Temp\sioc.
-65 cinit CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-65 cinit CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-67 cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-68 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-69 cinit CODE >124:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-70 cinit CODE >125:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-72 cinit CODE >130:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-75 cinit CODE >133:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-76 cinit CODE >141:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-77 cinit CODE >142:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-78 cinit CODE >146:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-7A cinit CODE >152:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-7D cinit CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-80 cinit CODE >155:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-83 cinit CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-8F cinit CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-96 cinit CODE >165:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-A0 cinit CODE >167:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-A4 cinit CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-A8 cinit CODE >170:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-AC cinit CODE >167:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-AD cinit CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-AE cinit CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-AF cinit CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-B1 cinit CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-BC cinit CODE >182:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-BF cinit CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-D6 cinit CODE >188:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-DA cinit CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-E7 cinit CODE >191:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F5 cinit CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-FF cinit CODE >197:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-110 cinit CODE >202:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-137 cinit CODE >206:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-141 cinit CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-152 cinit CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-158 cinit CODE >214:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-15A cinit CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-15E cinit CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-15F cinit CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-161 cinit CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-162 cinit CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-164 cinit CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-16E cinit CODE >224:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-173 cinit CODE >228:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-176 cinit CODE >229:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-177 cinit CODE >230:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-178 cinit CODE >231:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-184 cinit CODE >234:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-189 cinit CODE >238:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-18C cinit CODE >239:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-18E cinit CODE >246:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-197 cinit CODE >248:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-199 cinit CODE >250:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-19B cinit CODE >254:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-19C cinit CODE >252:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-19F cinit CODE >254:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1A1 cinit CODE >255:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1A2 cinit CODE >256:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1A2 cinit CODE >260:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1A3 cinit CODE >258:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1A7 cinit CODE >260:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1AA cinit CODE >265:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1B3 cinit CODE >267:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1B4 cinit CODE >272:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1B7 cinit CODE >274:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-1DF cinit CODE >277:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+3A cinit CODE >9328:C:\Users\C20590\AppData\Local\Temp\sb64.
+3A cinit CODE >9331:C:\Users\C20590\AppData\Local\Temp\sb64.
+3A cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.h
+3B cinit CODE >9449:C:\Users\C20590\AppData\Local\Temp\sb64.
+3C cinit CODE >9451:C:\Users\C20590\AppData\Local\Temp\sb64.
+3D cinit CODE >9453:C:\Users\C20590\AppData\Local\Temp\sb64.
+3E cinit CODE >9455:C:\Users\C20590\AppData\Local\Temp\sb64.
+3F cinit CODE >9457:C:\Users\C20590\AppData\Local\Temp\sb64.
+40 cinit CODE >9459:C:\Users\C20590\AppData\Local\Temp\sb64.
+41 cinit CODE >9482:C:\Users\C20590\AppData\Local\Temp\sb64.
+42 cinit CODE >9483:C:\Users\C20590\AppData\Local\Temp\sb64.
+43 cinit CODE >9484:C:\Users\C20590\AppData\Local\Temp\sb64.
+44 cinit CODE >9485:C:\Users\C20590\AppData\Local\Temp\sb64.
+45 cinit CODE >9486:C:\Users\C20590\AppData\Local\Temp\sb64.
+46 cinit CODE >9487:C:\Users\C20590\AppData\Local\Temp\sb64.
+47 cinit CODE >9489:C:\Users\C20590\AppData\Local\Temp\sb64.
+48 cinit CODE >9490:C:\Users\C20590\AppData\Local\Temp\sb64.
+4B cinit CODE >9498:C:\Users\C20590\AppData\Local\Temp\sb64.
+4C cinit CODE >9494:C:\Users\C20590\AppData\Local\Temp\sb64.
+4D cinit CODE >9499:C:\Users\C20590\AppData\Local\Temp\sb64.
+4E cinit CODE >9500:C:\Users\C20590\AppData\Local\Temp\sb64.
+4F cinit CODE >9501:C:\Users\C20590\AppData\Local\Temp\sb64.
+50 cinit CODE >9502:C:\Users\C20590\AppData\Local\Temp\sb64.
+51 cinit CODE >9503:C:\Users\C20590\AppData\Local\Temp\sb64.
+52 cinit CODE >9504:C:\Users\C20590\AppData\Local\Temp\sb64.
+53 cinit CODE >9505:C:\Users\C20590\AppData\Local\Temp\sb64.
+54 cinit CODE >9506:C:\Users\C20590\AppData\Local\Temp\sb64.
+57 cinit CODE >9510:C:\Users\C20590\AppData\Local\Temp\sb64.
+58 cinit CODE >9511:C:\Users\C20590\AppData\Local\Temp\sb64.
+59 cinit CODE >9512:C:\Users\C20590\AppData\Local\Temp\sb64.
+5A cinit CODE >9513:C:\Users\C20590\AppData\Local\Temp\sb64.
+5B cinit CODE >9514:C:\Users\C20590\AppData\Local\Temp\sb64.
+5C cinit CODE >9515:C:\Users\C20590\AppData\Local\Temp\sb64.
+5D cinit CODE >9516:C:\Users\C20590\AppData\Local\Temp\sb64.
+5E cinit CODE >9517:C:\Users\C20590\AppData\Local\Temp\sb64.
+5F cinit CODE >9518:C:\Users\C20590\AppData\Local\Temp\sb64.
+62 cinit CODE >9524:C:\Users\C20590\AppData\Local\Temp\sb64.
+62 cinit CODE >9526:C:\Users\C20590\AppData\Local\Temp\sb64.
+63 cinit CODE >9527:C:\Users\C20590\AppData\Local\Temp\sb64.
+64 cinit CODE >9528:C:\Users\C20590\AppData\Local\Temp\sb64.
+65 cinit CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+65 cinit CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+67 cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+68 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+69 cinit CODE >124:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+70 cinit CODE >125:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+72 cinit CODE >130:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+75 cinit CODE >133:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+76 cinit CODE >141:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+77 cinit CODE >142:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+78 cinit CODE >146:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+7A cinit CODE >152:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+7D cinit CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+80 cinit CODE >155:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+83 cinit CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+8F cinit CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+96 cinit CODE >165:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+A0 cinit CODE >167:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+A4 cinit CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+A8 cinit CODE >170:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+AC cinit CODE >167:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+AD cinit CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+AE cinit CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+AF cinit CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+B1 cinit CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+BC cinit CODE >182:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+BF cinit CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+D6 cinit CODE >188:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+DA cinit CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+E7 cinit CODE >191:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F5 cinit CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+FF cinit CODE >197:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+110 cinit CODE >202:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+137 cinit CODE >206:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+141 cinit CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+152 cinit CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+158 cinit CODE >214:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+15A cinit CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+15E cinit CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+15F cinit CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+161 cinit CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+162 cinit CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+164 cinit CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+16E cinit CODE >224:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+173 cinit CODE >228:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+176 cinit CODE >229:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+177 cinit CODE >230:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+178 cinit CODE >231:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+184 cinit CODE >234:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+189 cinit CODE >238:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+18C cinit CODE >239:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+18E cinit CODE >246:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+197 cinit CODE >248:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+199 cinit CODE >250:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+19B cinit CODE >254:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+19C cinit CODE >252:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+19F cinit CODE >254:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1A1 cinit CODE >255:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1A2 cinit CODE >256:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1A2 cinit CODE >260:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1A3 cinit CODE >258:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1A7 cinit CODE >260:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1AA cinit CODE >265:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1B3 cinit CODE >267:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1B4 cinit CODE >272:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1B7 cinit CODE >274:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+1DF cinit CODE >277:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 1E3 cinit CODE >13:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
 1E3 cinit CODE >24:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
 1E4 cinit CODE >23:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
 1E5 cinit CODE >24:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
 1E8 cinit CODE >25:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
 1EA cinit CODE >26:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\printf.c
-1F3 cinit CODE >148:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-1F5 cinit CODE >150:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-1F9 cinit CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-1FC cinit CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-200 cinit CODE >157:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-201 cinit CODE >158:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-201 cinit CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-202 cinit CODE >161:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-20C cinit CODE >162:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-20F cinit CODE >164:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-210 cinit CODE >166:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-211 cinit CODE >168:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-213 cinit CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+1F3 cinit CODE >148:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+1F5 cinit CODE >150:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+1F9 cinit CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+1FC cinit CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+200 cinit CODE >157:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+201 cinit CODE >158:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+201 cinit CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+202 cinit CODE >161:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+20C cinit CODE >162:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+20F cinit CODE >164:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+210 cinit CODE >166:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+211 cinit CODE >168:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+213 cinit CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 214 cinit CODE >13:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
 215 cinit CODE >31:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
 216 cinit CODE >33:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
@@ -308,84 +308,84 @@ FF cinit CODE >197:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
 223 cinit CODE >35:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
 228 cinit CODE >36:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
 22E cinit CODE >38:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprintf.c
-22F cinit CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-22F cinit CODE >179:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-236 cinit CODE >180:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-237 cinit CODE >50:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-237 cinit CODE >52:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-239 cinit CODE >53:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-23B cinit CODE >54:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-23D cinit CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-23F cinit CODE >56:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-240 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-242 cinit CODE >58:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-244 cinit CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-244 cinit CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-247 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-249 cinit CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-24A cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-24B cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-24C cinit CODE >61:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-24C cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-24F cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-250 cinit CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-251 cinit CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-253 cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-254 cinit CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-255 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-256 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-256 cinit CODE >62:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-258 cinit CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-259 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-25A cinit CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-25B cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-25C cinit CODE >71:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-25E cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-260 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-262 cinit CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-263 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-265 cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-267 cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-269 cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-26B cinit CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-26D cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-26F cinit CODE >89:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-270 cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-271 cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-272 cinit CODE >92:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-273 cinit CODE >93:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-274 cinit CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-275 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-276 cinit CODE >100:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-277 cinit CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-278 cinit CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-279 cinit CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-27B cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-280 cinit CODE >113:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-283 cinit CODE >114:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-288 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
-289 cinit CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-289 cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-28B cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-28C cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-28D cinit CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-28E cinit CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-28F cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-290 cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
-291 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-291 cinit CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-294 cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-295 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-296 cinit CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-298 cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-299 cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-29B cinit CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-29C cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-2A2 cinit CODE >93:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-2A5 cinit CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-2A6 cinit CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-2A6 cinit CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-2A8 cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+22F cinit CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+22F cinit CODE >179:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+236 cinit CODE >180:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+237 cinit CODE >50:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+237 cinit CODE >52:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+239 cinit CODE >53:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+23B cinit CODE >54:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+23D cinit CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+23F cinit CODE >56:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+240 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+242 cinit CODE >58:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+244 cinit CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+244 cinit CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+247 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+249 cinit CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+24A cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+24B cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+24C cinit CODE >61:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+24C cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+24F cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+250 cinit CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+251 cinit CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+253 cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+254 cinit CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+255 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+256 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+256 cinit CODE >62:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+258 cinit CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+259 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+25A cinit CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+25B cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+25C cinit CODE >71:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+25E cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+260 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+262 cinit CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+263 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+265 cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+267 cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+269 cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+26B cinit CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+26D cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+26F cinit CODE >89:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+270 cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+271 cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+272 cinit CODE >92:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+273 cinit CODE >93:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+274 cinit CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+275 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+276 cinit CODE >100:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+277 cinit CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+278 cinit CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+279 cinit CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+27B cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+280 cinit CODE >113:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+283 cinit CODE >114:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+288 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
+289 cinit CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+289 cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+28B cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+28C cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+28D cinit CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+28E cinit CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+28F cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+290 cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
+291 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+291 cinit CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+294 cinit CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+295 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+296 cinit CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+298 cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+299 cinit CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+29B cinit CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+29C cinit CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+2A2 cinit CODE >93:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+2A5 cinit CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+2A6 cinit CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+2A6 cinit CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+2A8 cinit CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 2A9 cinit CODE >43:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\fltol.c
 2A9 cinit CODE >47:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\fltol.c
 2B2 cinit CODE >48:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\fltol.c
@@ -431,14 +431,14 @@ FF cinit CODE >197:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
 32D cinit CODE >33:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
 332 cinit CODE >34:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
 336 cinit CODE >35:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
-337 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-337 cinit CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-33D cinit CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-344 cinit CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-349 cinit CODE >109:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-359 cinit CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-35B cinit CODE >114:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-380 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
+337 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+337 cinit CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+33D cinit CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+344 cinit CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+349 cinit CODE >109:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+359 cinit CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+35B cinit CODE >114:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+380 cinit CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
 381 cinit CODE >6:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 381 cinit CODE >14:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 383 cinit CODE >15:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
@@ -456,111 +456,111 @@ FF cinit CODE >197:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
 39F cinit CODE >28:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 3A1 cinit CODE >30:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 3A5 cinit CODE >31:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
-3A6 cinit CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3A6 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3C3 cinit CODE >58:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3C4 cinit CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3C5 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3C5 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3CA cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3CC cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3CD cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3D6 cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-3DF cinit CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-41A cinit CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-41A cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-41F cinit CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-423 cinit CODE >96:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-425 cinit CODE >97:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-427 cinit CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-428 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-431 cinit CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-432 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-432 cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-435 cinit CODE >67:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
-4 intentry CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-4 intentry CODE >52:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-6 intentry CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-8 intentry CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-C intentry CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-12 intentry CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-13 intentry CODE >61:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-16 intentry CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-1C intentry CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-1D intentry CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-20 intentry CODE >67:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-26 intentry CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-27 intentry CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-2A intentry CODE >71:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-30 intentry CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-31 intentry CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-34 intentry CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-36 intentry CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
-E49 text56 CODE >200:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E49 text56 CODE >203:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E4C text56 CODE >207:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E4D text56 CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E4E text56 CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E58 text56 CODE >213:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E5B text56 CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E5C text56 CODE >217:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E5D text56 CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E88 text55 CODE >181:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E88 text55 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E8C text55 CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E95 text55 CODE >188:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E98 text55 CODE >190:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E99 text55 CODE >192:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E9A text55 CODE >193:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E9B text55 CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E9B text55 CODE >196:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E9D text55 CODE >198:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E5E text54 CODE >191:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E5E text54 CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E61 text54 CODE >198:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E62 text54 CODE >199:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E63 text54 CODE >203:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E6D text54 CODE >204:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E70 text54 CODE >206:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E71 text54 CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-E72 text54 CODE >209:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7E0 text53 CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7E0 text53 CODE >176:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7E4 text53 CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7ED text53 CODE >179:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F0 text53 CODE >181:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F1 text53 CODE >183:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F2 text53 CODE >184:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F3 text53 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F3 text53 CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-7F5 text53 CODE >189:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-F29 text45 CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F29 text45 CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F2B text45 CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F2E text45 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F30 text45 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F37 text45 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
-F45 text45 CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F45 text45 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F4C text45 CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F4D text45 CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F4E text45 CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F56 text45 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F57 text45 CODE >89:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F58 text45 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F58 text45 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F59 text45 CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
-F5A text45 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F5A text45 CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F5F text45 CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F62 text45 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F63 text45 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F71 text45 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F83 text45 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F84 text45 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-F84 text45 CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-FA0 text45 CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-FA1 text45 CODE >62:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
+3A6 cinit CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3A6 cinit CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3C3 cinit CODE >58:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3C4 cinit CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3C5 cinit CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3C5 cinit CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3CA cinit CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3CC cinit CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3CD cinit CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3D6 cinit CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+3DF cinit CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+41A cinit CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+41A cinit CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+41F cinit CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+423 cinit CODE >96:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+425 cinit CODE >97:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+427 cinit CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+428 cinit CODE >99:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+431 cinit CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+432 cinit CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+432 cinit CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+435 cinit CODE >67:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
+4 intentry CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+4 intentry CODE >52:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+6 intentry CODE >55:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+8 intentry CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+C intentry CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+12 intentry CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+13 intentry CODE >61:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+16 intentry CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+1C intentry CODE >64:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+1D intentry CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+20 intentry CODE >67:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+26 intentry CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+27 intentry CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+2A intentry CODE >71:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+30 intentry CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+31 intentry CODE >73:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+34 intentry CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+36 intentry CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
+E49 text56 CODE >200:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E49 text56 CODE >203:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E4C text56 CODE >207:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E4D text56 CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E4E text56 CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E58 text56 CODE >213:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E5B text56 CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E5C text56 CODE >217:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E5D text56 CODE >218:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E88 text55 CODE >181:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E88 text55 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E8C text55 CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E95 text55 CODE >188:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E98 text55 CODE >190:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E99 text55 CODE >192:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E9A text55 CODE >193:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E9B text55 CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E9B text55 CODE >196:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E9D text55 CODE >198:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E5E text54 CODE >191:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E5E text54 CODE >194:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E61 text54 CODE >198:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E62 text54 CODE >199:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E63 text54 CODE >203:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E6D text54 CODE >204:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E70 text54 CODE >206:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E71 text54 CODE >208:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+E72 text54 CODE >209:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7E0 text53 CODE >172:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7E0 text53 CODE >176:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7E4 text53 CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7ED text53 CODE >179:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F0 text53 CODE >181:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F1 text53 CODE >183:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F2 text53 CODE >184:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F3 text53 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F3 text53 CODE >187:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+7F5 text53 CODE >189:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+F29 text45 CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F29 text45 CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F2B text45 CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F2E text45 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F30 text45 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F37 text45 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
+F45 text45 CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F45 text45 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F4C text45 CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F4D text45 CODE >83:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F4E text45 CODE >86:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F56 text45 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F57 text45 CODE >89:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F58 text45 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F58 text45 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F59 text45 CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
+F5A text45 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F5A text45 CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F5F text45 CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F62 text45 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F63 text45 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F71 text45 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F83 text45 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F84 text45 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+F84 text45 CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+FA0 text45 CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+FA1 text45 CODE >62:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
 FA2 text45 CODE >6:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
 FA2 text45 CODE >13:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
 FA3 text45 CODE >14:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\awmod.c
@@ -600,55 +600,55 @@ FF7 text45 CODE >27:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lw
 FF9 text45 CODE >28:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 FFB text45 CODE >30:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
 FFF text45 CODE >31:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwdiv.c
-7F6 text44 CODE >182:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-7F6 text44 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-E1E text43 CODE >165:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-E1E text43 CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-E1F text43 CODE >171:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-E24 text43 CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-E29 text43 CODE >175:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
-EBF text34 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EBF text34 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EC0 text34 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EC7 text34 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EC9 text34 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-ED0 text34 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-ED3 text34 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-ED5 text34 CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-ED7 text34 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-ED8 text34 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EDA text34 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EDB text34 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EDC text34 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EDD text34 CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EDF text34 CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EE0 text34 CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EE0 text34 CODE >216:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EE7 text34 CODE >217:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EE8 text34 CODE >211:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EE8 text34 CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EEF text34 CODE >213:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
-EF0 text34 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EF0 text34 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EF2 text34 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EF9 text34 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EFB text34 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F02 text34 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F05 text34 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F07 text34 CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F08 text34 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F0A text34 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F0C text34 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F0D text34 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F0E text34 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F0F text34 CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F11 text34 CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F12 text34 CODE >224:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F12 text34 CODE >225:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F19 text34 CODE >226:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F1A text34 CODE >220:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F1A text34 CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-F21 text34 CODE >222:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+7F6 text44 CODE >182:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+7F6 text44 CODE >185:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+E1E text43 CODE >165:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+E1E text43 CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+E1F text43 CODE >171:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+E24 text43 CODE >173:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+E29 text43 CODE >175:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
+EBF text34 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EBF text34 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EC0 text34 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EC7 text34 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EC9 text34 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+ED0 text34 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+ED3 text34 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+ED5 text34 CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+ED7 text34 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+ED8 text34 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EDA text34 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EDB text34 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EDC text34 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EDD text34 CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EDF text34 CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EE0 text34 CODE >215:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EE0 text34 CODE >216:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EE7 text34 CODE >217:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EE8 text34 CODE >211:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EE8 text34 CODE >212:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EEF text34 CODE >213:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
+EF0 text34 CODE >75:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EF0 text34 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EF2 text34 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EF9 text34 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EFB text34 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F02 text34 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F05 text34 CODE >88:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F07 text34 CODE >101:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F08 text34 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F0A text34 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F0C text34 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F0D text34 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F0E text34 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F0F text34 CODE >110:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F11 text34 CODE >111:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F12 text34 CODE >224:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F12 text34 CODE >225:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F19 text34 CODE >226:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F1A text34 CODE >220:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F1A text34 CODE >221:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+F21 text34 CODE >222:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 436 text26 CODE >10:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprcadd.c
 436 text26 CODE >21:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprcadd.c
 43A text26 CODE >22:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\sprcadd.c
@@ -798,21 +798,21 @@ E37 text10 CODE >18:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\me
 E38 text10 CODE >19:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\memset.c
 E41 text10 CODE >20:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\memset.c
 E48 text10 CODE >19:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\memset.c
-E9E text7 CODE >176:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-E9E text7 CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EA0 text7 CODE >148:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EA1 text7 CODE >150:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EA5 text7 CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EA8 text7 CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EAC text7 CODE >157:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EAD text7 CODE >158:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EAD text7 CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EAE text7 CODE >161:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EB6 text7 CODE >162:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EB9 text7 CODE >164:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EBA text7 CODE >166:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EBC text7 CODE >168:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
-EBE text7 CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+E9E text7 CODE >176:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+E9E text7 CODE >178:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EA0 text7 CODE >148:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EA1 text7 CODE >150:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EA5 text7 CODE >154:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EA8 text7 CODE >156:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EAC text7 CODE >157:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EAD text7 CODE >158:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EAD text7 CODE >160:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EAE text7 CODE >161:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EB6 text7 CODE >162:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EB9 text7 CODE >164:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EBA text7 CODE >166:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EBC text7 CODE >168:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
+EBE text7 CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 581 text6 CODE >458:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\doprnt.c
 582 text6 CODE >510:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\doprnt.c
 584 text6 CODE >536:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\doprnt.c
@@ -850,73 +850,73 @@ EBE text7 CODE >169:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_genera
 641 text6 CODE >23:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwmod.c
 643 text6 CODE >25:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwmod.c
 647 text6 CODE >26:C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\lwmod.c
-E73 text4 CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-E73 text4 CODE >117:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-E87 text4 CODE >118:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-67B text2 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-67B text2 CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-680 text2 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-684 text2 CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-688 text2 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-68A text2 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-68C text2 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-68D text2 CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-695 text2 CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-696 text2 CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-696 text2 CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-699 text2 CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
-6A0 text2 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6A0 text2 CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6A6 text2 CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6AB text2 CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6AD text2 CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6B5 text2 CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6BC text2 CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6CE text2 CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6DC text2 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6DF text2 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6E1 text2 CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6EE text2 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6F1 text2 CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-6FB text2 CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-703 text2 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-707 text2 CODE >92:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
-708 text2 CODE >54:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-708 text2 CODE >56:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-724 text2 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-725 text2 CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-726 text2 CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-726 text2 CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-72B text2 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-72D text2 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-72E text2 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-736 text2 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-73E text2 CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-73F text2 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-73F text2 CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-744 text2 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-748 text2 CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-74A text2 CODE >96:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-74C text2 CODE >97:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-74D text2 CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-755 text2 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-756 text2 CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-756 text2 CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-758 text2 CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
-E2A clrtext CODE >9465:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2A clrtext CODE >9466:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2B clrtext CODE >9467:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2B clrtext CODE >9470:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2C clrtext CODE >9468:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2D clrtext CODE >9469:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2E clrtext CODE >9471:C:\Users\C20590\AppData\Local\Temp\sioc.
-E2F clrtext CODE >9472:C:\Users\C20590\AppData\Local\Temp\sioc.
-E30 clrtext CODE >9473:C:\Users\C20590\AppData\Local\Temp\sioc.
-E31 clrtext CODE >9474:C:\Users\C20590\AppData\Local\Temp\sioc.
-E32 clrtext CODE >9475:C:\Users\C20590\AppData\Local\Temp\sioc.
-E33 clrtext CODE >9476:C:\Users\C20590\AppData\Local\Temp\sioc.
-E34 clrtext CODE >9478:C:\Users\C20590\AppData\Local\Temp\sioc.
-E35 clrtext CODE >9477:C:\Users\C20590\AppData\Local\Temp\sioc.
+E73 text4 CODE >115:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+E73 text4 CODE >117:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+E87 text4 CODE >118:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+67B text2 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+67B text2 CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+680 text2 CODE >103:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+684 text2 CODE >104:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+688 text2 CODE >105:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+68A text2 CODE >106:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+68C text2 CODE >107:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+68D text2 CODE >108:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+695 text2 CODE >112:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+696 text2 CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+696 text2 CODE >68:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+699 text2 CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
+6A0 text2 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6A0 text2 CODE >60:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6A6 text2 CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6AB text2 CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6AD text2 CODE >69:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6B5 text2 CODE >70:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6BC text2 CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6CE text2 CODE >77:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6DC text2 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6DF text2 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6E1 text2 CODE >82:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6EE text2 CODE >85:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6F1 text2 CODE >76:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+6FB text2 CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+703 text2 CODE >91:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+707 text2 CODE >92:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
+708 text2 CODE >54:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+708 text2 CODE >56:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+724 text2 CODE >57:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+725 text2 CODE >59:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+726 text2 CODE >72:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+726 text2 CODE >74:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+72B text2 CODE >78:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+72D text2 CODE >79:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+72E text2 CODE >80:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+736 text2 CODE >81:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+73E text2 CODE >84:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+73F text2 CODE >87:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+73F text2 CODE >90:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+744 text2 CODE >94:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+748 text2 CODE >95:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+74A text2 CODE >96:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+74C text2 CODE >97:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+74D text2 CODE >98:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+755 text2 CODE >102:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+756 text2 CODE >63:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+756 text2 CODE >65:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+758 text2 CODE >66:C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
+E2A clrtext CODE >9465:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2A clrtext CODE >9466:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2B clrtext CODE >9467:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2B clrtext CODE >9470:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2C clrtext CODE >9468:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2D clrtext CODE >9469:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2E clrtext CODE >9471:C:\Users\C20590\AppData\Local\Temp\sb64.
+E2F clrtext CODE >9472:C:\Users\C20590\AppData\Local\Temp\sb64.
+E30 clrtext CODE >9473:C:\Users\C20590\AppData\Local\Temp\sb64.
+E31 clrtext CODE >9474:C:\Users\C20590\AppData\Local\Temp\sb64.
+E32 clrtext CODE >9475:C:\Users\C20590\AppData\Local\Temp\sb64.
+E33 clrtext CODE >9476:C:\Users\C20590\AppData\Local\Temp\sb64.
+E34 clrtext CODE >9478:C:\Users\C20590\AppData\Local\Temp\sb64.
+E35 clrtext CODE >9477:C:\Users\C20590\AppData\Local\Temp\sb64.
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -972,7 +972,7 @@ _WPUB 1F44 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 _WPUC 1F4F 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 _WPUD 1F5A 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 _WPUE 1F65 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
-___sp 0 0 STACK 2 stack C:\Users\C20590\AppData\Local\Temp\sioc.obj
+___sp 0 0 STACK 2 stack C:\Users\C20590\AppData\Local\Temp\sb64.obj
 _main CA 0 CODE 0 cinit dist/default/production\EMG_15375_Actual.X.production.obj
 __end_of_pkdata_remove EAC 0 CODE 0 text2 dist/default/production\EMG_15375_Actual.X.production.obj
 abs@a 22 0 BANK0 1 cstackBANK0 dist/default/production\EMG_15375_Actual.X.production.obj
@@ -980,7 +980,7 @@ __size_of_madata_insert 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.p
 btemp 7E 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_madata_isfull 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_TMR2_EMG_InterruptHandler 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
-start 70 0 CODE 0 init C:\Users\C20590\AppData\Local\Temp\sioc.obj
+start 70 0 CODE 0 init C:\Users\C20590\AppData\Local\Temp\sb64.obj
 __size_of___awmod 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of___fladd 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of___fltol 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
@@ -1002,12 +1002,12 @@ __size_of__doprnt 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.product
 _EUSART2_Transmit_ISR FC0 0 CODE 0 text53 dist/default/production\EMG_15375_Actual.X.production.obj
 _ADC_StartConversion 1EB0 0 CODE 0 text45 dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_SYSTEM_Initialize 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
-intlevel0 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
-intlevel1 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
-intlevel2 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
-intlevel3 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
-intlevel4 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
-intlevel5 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sioc.obj
+intlevel0 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
+intlevel1 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
+intlevel2 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
+intlevel3 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
+intlevel4 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
+intlevel5 0 0 ENTRY 0 functab C:\Users\C20590\AppData\Local\Temp\sb64.obj
 __size_of_EUSART2_SetTxInterruptHandler 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 i1___lwdiv@quotient 74 0 COMMON 1 cstackCOMMON dist/default/production\EMG_15375_Actual.X.production.obj
 __end_of_madata_insert 7C0 0 CODE 0 cinit dist/default/production\EMG_15375_Actual.X.production.obj
@@ -1130,7 +1130,7 @@ __end_of_EUSART1_Receive_ISR 1CBC 0 CODE 0 text56 dist/default/production\EMG_15
 __size_of_EUSART2_Receive_ISR 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_EUSART1_Initialize 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 EUSART2_Write@txData 22 0 BANK0 1 cstackBANK0 dist/default/production\EMG_15375_Actual.X.production.obj
-___int_sp 0 0 STACK 2 stack C:\Users\C20590\AppData\Local\Temp\sioc.obj
+___int_sp 0 0 STACK 2 stack C:\Users\C20590\AppData\Local\Temp\sb64.obj
 sbuf_insert@element 77 0 COMMON 1 cstackCOMMON dist/default/production\EMG_15375_Actual.X.production.obj
 _EUSART1_Write 1D40 0 CODE 0 text7 dist/default/production\EMG_15375_Actual.X.production.obj
 __Hbank0 0 0 ABS 0 bank0 -
@@ -1451,7 +1451,7 @@ __Lintentry 8 0 CODE 0 intentry -
 main@datapoint 166 0 BANK2 1 cstackBANK2 dist/default/production\EMG_15375_Actual.X.production.obj
 __end_of_sbuf_peek 1D10 0 CODE 0 text4 dist/default/production\EMG_15375_Actual.X.production.obj
 _EUSART2_RxDefaultInterruptHandler DB 0 BANK1 1 nvBANK1 dist/default/production\EMG_15375_Actual.X.production.obj
-reset_vec 0 0 CODE 0 reset_vec C:\Users\C20590\AppData\Local\Temp\sioc.obj
+reset_vec 0 0 CODE 0 reset_vec C:\Users\C20590\AppData\Local\Temp\sb64.obj
 __size_of_sbuf_insert 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_sbuf_isfull 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 __end_of_ADC_GetConversionResult 1E9A 0 CODE 0 text45 dist/default/production\EMG_15375_Actual.X.production.obj
@@ -1627,8 +1627,8 @@ ___lwdiv@divisor 22 0 BANK0 1 cstackBANK0 dist/default/production\EMG_15375_Actu
 __end_of_sbuf_isempty D34 0 CODE 0 text2 dist/default/production\EMG_15375_Actual.X.production.obj
 __doprnt B02 0 CODE 0 text6 dist/default/production\EMG_15375_Actual.X.production.obj
 _sb_front 52 0 BANK0 1 dataBANK0 dist/default/production\EMG_15375_Actual.X.production.obj
-stackhi 238B 0 ABS 0 - C:\Users\C20590\AppData\Local\Temp\sioc.obj
-stacklo 20EF 0 ABS 0 - C:\Users\C20590\AppData\Local\Temp\sioc.obj
+stackhi 238B 0 ABS 0 - C:\Users\C20590\AppData\Local\Temp\sb64.obj
+stacklo 20EF 0 ABS 0 - C:\Users\C20590\AppData\Local\Temp\sb64.obj
 __end_of_EUSART1_Write 1D7E 0 CODE 0 text7 dist/default/production\EMG_15375_Actual.X.production.obj
 __size_of_ADC_SelectChannel 0 0 ABS 0 - dist/default/production\EMG_15375_Actual.X.production.obj
 get_neutral_peaktopeak@datapoint 2A 0 BANK0 1 cstackBANK0 dist/default/production\EMG_15375_Actual.X.production.obj

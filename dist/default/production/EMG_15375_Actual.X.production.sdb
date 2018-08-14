@@ -3,7 +3,7 @@
 [d edition pro ]
 [d chip 16F15375 ]
 [d frameptr 6 ]
-"84 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
+"84 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
 [e E9368 . `uc
 POT_RA0 0
 EMG_RA2 2
@@ -13,7 +13,7 @@ channel_DAC1 61
 channel_FVR_BUF1 62
 channel_FVR_BUF2 63
 ]
-"97 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"97 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [e E9363 . `uc
 TMR2_ROP_STARTS_TMRON 0
 TMR2_ROP_STARTS_TMRON_ERSHIGH 1
@@ -54,7 +54,7 @@ TMR2_CLC2_OUT 11
 TMR2_CLC3_OUT 12
 TMR2_CLC4_OUT 13
 ]
-"83 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+"83 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 [e E9448 . `uc
 POT_RA0 0
 EMG_RA2 2
@@ -90,11 +90,11 @@ channel_FVR_BUF2 63
 [v __Umul8_16 _Umul8_16 `(ui  1 e 2 0 ]
 "10 C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\xxtofl.c
 [v ___xxtofl __xxtofl `(d  1 e 4 0 ]
-"72 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+"72 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 [v _TMR2_EMG_InterruptHandler TMR2_EMG_InterruptHandler `(v  1 e 1 0 ]
 "102
 [v _main main `(v  1 e 1 0 ]
-"65 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
+"65 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
 [v _ADC_Initialize ADC_Initialize `(v  1 e 1 0 ]
 "83
 [v _ADC_SelectChannel ADC_SelectChannel `(v  1 e 1 0 ]
@@ -102,7 +102,7 @@ channel_FVR_BUF2 63
 [v _ADC_StartConversion ADC_StartConversion `(v  1 e 1 0 ]
 "104
 [v _ADC_GetConversionResult ADC_GetConversionResult `(ui  1 e 2 0 ]
-"75 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+"75 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 [v _EUSART1_Initialize EUSART1_Initialize `(v  1 e 1 0 ]
 "128
 [v _EUSART1_Read EUSART1_Read `(uc  1 e 1 0 ]
@@ -118,7 +118,7 @@ channel_FVR_BUF2 63
 [v _EUSART1_SetTxInterruptHandler EUSART1_SetTxInterruptHandler `(v  1 e 1 0 ]
 "224
 [v _EUSART1_SetRxInterruptHandler EUSART1_SetRxInterruptHandler `(v  1 e 1 0 ]
-"75 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+"75 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 [v _EUSART2_Initialize EUSART2_Initialize `(v  1 e 1 0 ]
 "148
 [v _EUSART2_Write EUSART2_Write `(v  1 e 1 0 ]
@@ -130,17 +130,17 @@ channel_FVR_BUF2 63
 [v _EUSART2_SetTxInterruptHandler EUSART2_SetTxInterruptHandler `(v  1 e 1 0 ]
 "215
 [v _EUSART2_SetRxInterruptHandler EUSART2_SetRxInterruptHandler `(v  1 e 1 0 ]
-"52 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
+"52 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
 [v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
-"50 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
+"50 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
 [v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
 "61
 [v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
 "77
 [v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
 [v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
-"64 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"64 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
 "108
 [v _TMR2_Start TMR2_Start `(v  1 e 1 0 ]
@@ -158,7 +158,7 @@ channel_FVR_BUF2 63
 [v _TMR2_SetInterruptHandler TMR2_SetInterruptHandler `(v  1 e 1 0 ]
 "182
 [v _TMR2_DefaultInterruptHandler TMR2_DefaultInterruptHandler `(v  1 e 1 0 ]
-"55 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
+"55 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
 [v _madata_isfull madata_isfull `(uc  1 e 1 0 ]
 "64
 [v _madata_isempty madata_isempty `(uc  1 e 1 0 ]
@@ -166,7 +166,7 @@ channel_FVR_BUF2 63
 [v _madata_insert madata_insert `(uc  1 e 1 0 ]
 "88
 [v _madata_remove madata_remove `(uc  1 e 1 0 ]
-"54 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
+"54 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
 [v _pkdata_isfull pkdata_isfull `(uc  1 e 1 0 ]
 "63
 [v _pkdata_isempty pkdata_isempty `(uc  1 e 1 0 ]
@@ -174,7 +174,7 @@ channel_FVR_BUF2 63
 [v _pkdata_insert pkdata_insert `(uc  1 e 1 0 ]
 "87
 [v _pkdata_remove pkdata_remove `(uc  1 e 1 0 ]
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
 [v _sbuf_isfull sbuf_isfull `(uc  1 e 1 0 ]
 "66
 [v _sbuf_isempty sbuf_isempty `(uc  1 e 1 0 ]
@@ -184,7 +184,7 @@ channel_FVR_BUF2 63
 [v _sbuf_remove sbuf_remove `(uc  1 e 1 0 ]
 "115
 [v _sbuf_peek sbuf_peek `(ui  1 e 2 0 ]
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
 [v _get_neutral_peaktopeak get_neutral_peaktopeak `(ui  1 e 2 0 ]
 "99
 [v _get_moving_average get_moving_average `(f  1 e 4 0 ]
@@ -478,7 +478,7 @@ channel_FVR_BUF2 63
 [v _ODCONE ODCONE `VEuc  1 e 1 @8038 ]
 "354 C:\Program Files (x86)\Microchip\xc8\v1.44\sources\common\doprnt.c
 [v _dpowers dpowers `DC[5]ui  1 s 10 dpowers ]
-"61 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+"61 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 [v _start_flag start_flag `uc  1 e 1 0 ]
 "64
 [v _i i `uc  1 e 1 0 ]
@@ -486,7 +486,7 @@ channel_FVR_BUF2 63
 [v _sent_1 sent_1 `uc  1 e 1 0 ]
 "68
 [v _sent_0 sent_0 `uc  1 e 1 0 ]
-"62 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+"62 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 [v _eusart1TxHead eusart1TxHead `VEuc  1 e 1 0 ]
 "63
 [v _eusart1TxTail eusart1TxTail `VEuc  1 e 1 0 ]
@@ -502,11 +502,11 @@ channel_FVR_BUF2 63
 [v _eusart1RxBuffer eusart1RxBuffer `VE[8]uc  1 e 8 0 ]
 "70
 [v _eusart1RxCount eusart1RxCount `VEuc  1 e 1 0 ]
-"86 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.h
+"86 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.h
 [v _EUSART1_TxDefaultInterruptHandler EUSART1_TxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
 "87
 [v _EUSART1_RxDefaultInterruptHandler EUSART1_RxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
-"62 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+"62 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 [v _eusart2TxHead eusart2TxHead `VEuc  1 e 1 0 ]
 "63
 [v _eusart2TxTail eusart2TxTail `VEuc  1 e 1 0 ]
@@ -522,13 +522,13 @@ channel_FVR_BUF2 63
 [v _eusart2RxBuffer eusart2RxBuffer `VE[8]uc  1 e 8 0 ]
 "70
 [v _eusart2RxCount eusart2RxCount `VEuc  1 e 1 0 ]
-"85 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.h
+"85 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.h
 [v _EUSART2_TxDefaultInterruptHandler EUSART2_TxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
 "86
 [v _EUSART2_RxDefaultInterruptHandler EUSART2_RxDefaultInterruptHandler `*.37(v  1 e 2 0 ]
-"58 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"58 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [v _TMR2_InterruptHandler TMR2_InterruptHandler `*.37(v  1 e 2 0 ]
-"71 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.h
+"71 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.h
 [v _ma_data ma_data `[25]ui  1 e 50 0 ]
 "78
 [v _ma_front ma_front `c  1 e 1 0 ]
@@ -536,19 +536,19 @@ channel_FVR_BUF2 63
 [v _ma_rear ma_rear `c  1 e 1 0 ]
 "81
 [v _ma_window_sum ma_window_sum `ui  1 e 2 0 ]
-"72 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.h
+"72 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.h
 [v _pk_data pk_data `[5]ui  1 e 10 0 ]
 "79
 [v _pk_front pk_front `c  1 e 1 0 ]
 "80
 [v _pk_rear pk_rear `c  1 e 1 0 ]
-"82 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.h
+"82 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.h
 [v _sb_data sb_data `[50]ui  1 e 100 @9100 ]
 "89
 [v _sb_front sb_front `c  1 e 1 0 ]
 "90
 [v _sb_rear sb_rear `c  1 e 1 0 ]
-"102 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+"102 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 [v _main main `(v  1 e 1 0 ]
 {
 "136
@@ -590,7 +590,7 @@ channel_FVR_BUF2 63
 [v sprintf@wh wh `*.5uc  1 a 1 34 ]
 "38
 } 0
-"94 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
+"94 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
 [v _sbuf_remove sbuf_remove `(uc  1 e 1 0 ]
 {
 "112
@@ -641,7 +641,7 @@ channel_FVR_BUF2 63
 [v __doprnt@pb pb `*.4S1158  1 a 1 28 ]
 "1541
 } 0
-"176 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+"176 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 [v _putch putch `(v  1 e 1 0 ]
 {
 [v putch@txData txData `uc  1 p 1 3 ]
@@ -679,7 +679,7 @@ channel_FVR_BUF2 63
 [v memset@p1 p1 `*.5v  1 a 1 6 ]
 "22
 } 0
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
 [v _get_neutral_peaktopeak get_neutral_peaktopeak `(ui  1 e 2 0 ]
 {
 "70
@@ -694,7 +694,7 @@ channel_FVR_BUF2 63
 [v get_neutral_peaktopeak@datapoint datapoint `ui  1 p 2 10 ]
 "92
 } 0
-"87 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\peak_filter.c
+"87 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\peak_filter.c
 [v _pkdata_remove pkdata_remove `(uc  1 e 1 0 ]
 {
 "102
@@ -715,13 +715,13 @@ channel_FVR_BUF2 63
 {
 "60
 } 0
-"99 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_processing.c
+"99 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_processing.c
 [v _get_moving_average get_moving_average `(f  1 e 4 0 ]
 {
 [v get_moving_average@datapoint datapoint `ui  1 p 2 23 ]
 "115
 } 0
-"88 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\moving_avg_filter.c
+"88 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\moving_avg_filter.c
 [v _madata_remove madata_remove `(uc  1 e 1 0 ]
 {
 "103
@@ -812,17 +812,17 @@ channel_FVR_BUF2 63
 [v ___fladd@a a `d  1 p 4 6 ]
 "237
 } 0
-"108 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"108 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [v _TMR2_Start TMR2_Start `(v  1 e 1 0 ]
 {
 "112
 } 0
-"50 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
+"50 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
 [v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
 {
 "59
 } 0
-"64 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"64 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [v _TMR2_Initialize TMR2_Initialize `(v  1 e 1 0 ]
 {
 "94
@@ -833,22 +833,22 @@ channel_FVR_BUF2 63
 [v TMR2_SetInterruptHandler@InterruptHandler InterruptHandler `*.37(v  1 p 2 2 ]
 "180
 } 0
-"77 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
+"77 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
 [v _PMD_Initialize PMD_Initialize `(v  1 e 1 0 ]
 {
 "91
 } 0
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/pin_manager.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/pin_manager.c
 [v _PIN_MANAGER_Initialize PIN_MANAGER_Initialize `(v  1 e 1 0 ]
 {
 "115
 } 0
-"61 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/mcc.c
+"61 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/mcc.c
 [v _OSCILLATOR_Initialize OSCILLATOR_Initialize `(v  1 e 1 0 ]
 {
 "75
 } 0
-"75 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+"75 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 [v _EUSART2_Initialize EUSART2_Initialize `(v  1 e 1 0 ]
 {
 "111
@@ -865,7 +865,7 @@ channel_FVR_BUF2 63
 [v EUSART2_SetRxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 2 ]
 "217
 } 0
-"75 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+"75 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 [v _EUSART1_Initialize EUSART1_Initialize `(v  1 e 1 0 ]
 {
 "111
@@ -882,12 +882,12 @@ channel_FVR_BUF2 63
 [v EUSART1_SetRxInterruptHandler@interruptHandler interruptHandler `*.37(v  1 p 2 2 ]
 "226
 } 0
-"65 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
+"65 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
 [v _ADC_Initialize ADC_Initialize `(v  1 e 1 0 ]
 {
 "81
 } 0
-"148 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+"148 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 [v _EUSART2_Write EUSART2_Write `(v  1 e 1 0 ]
 {
 [v EUSART2_Write@txData txData `uc  1 a 1 wreg ]
@@ -895,12 +895,12 @@ channel_FVR_BUF2 63
 [v EUSART2_Write@txData txData `uc  1 a 1 2 ]
 "169
 } 0
-"52 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/interrupt_manager.c
+"52 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/interrupt_manager.c
 [v _INTERRUPT_InterruptManager INTERRUPT_InterruptManager `II(v  1 e 1 0 ]
 {
 "86
 } 0
-"165 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/tmr2.c
+"165 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/tmr2.c
 [v _TMR2_ISR TMR2_ISR `(v  1 e 1 0 ]
 {
 "175
@@ -910,7 +910,7 @@ channel_FVR_BUF2 63
 {
 "185
 } 0
-"72 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\main.c
+"72 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\main.c
 [v _TMR2_EMG_InterruptHandler TMR2_EMG_InterruptHandler `(v  1 e 1 0 ]
 {
 "87
@@ -926,7 +926,7 @@ channel_FVR_BUF2 63
 [v i1___lwdiv@dividend dividend `ui  1 p 2 2 ]
 "31
 } 0
-"75 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
+"75 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
 [v _sbuf_insert sbuf_insert `(uc  1 e 1 0 ]
 {
 [v sbuf_insert@element element `ui  1 p 2 7 ]
@@ -941,12 +941,12 @@ channel_FVR_BUF2 63
 [v i1___awmod@dividend dividend `i  1 p 2 2 ]
 "35
 } 0
-"57 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\signal_buffer.c
+"57 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\signal_buffer.c
 [v _sbuf_isfull sbuf_isfull `(uc  1 e 1 0 ]
 {
 "63
 } 0
-"91 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/adc.c
+"91 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/adc.c
 [v _ADC_StartConversion ADC_StartConversion `(v  1 e 1 0 ]
 {
 "95
@@ -965,7 +965,7 @@ channel_FVR_BUF2 63
 {
 "108
 } 0
-"172 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart2.c
+"172 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart2.c
 [v _EUSART2_Transmit_ISR EUSART2_Transmit_ISR `(v  1 e 1 0 ]
 {
 "189
@@ -975,7 +975,7 @@ channel_FVR_BUF2 63
 {
 "209
 } 0
-"181 C:\Users\C20590\MPLABXProjects\EMG_15375_Actual.X\mcc_generated_files/eusart1.c
+"181 C:\Users\C20590\MPLABXProjects\EMG_15375_COPY_GIT.X\mcc_generated_files/eusart1.c
 [v _EUSART1_Transmit_ISR EUSART1_Transmit_ISR `(v  1 e 1 0 ]
 {
 "198
