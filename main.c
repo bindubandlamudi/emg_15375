@@ -62,6 +62,7 @@ uint8_t start_flag = 0;
 
 // Index for looping elements
 uint8_t i;
+uint8_t threshold = 18;
 
 // Flags to indicate the character sent over UART to the Slave PIC
 uint8_t sent_1 =0;
@@ -119,6 +120,24 @@ void main(void)
 
     // Disable the Peripheral Interrupts
     //INTERRUPT_PeripheralInterruptDisable();
+    
+    ADC_SelectChannel(POT_RA0);
+    
+    ADC_StartConversion();
+    
+    adc_result_t pot_value = ADC_GetConversionResult();
+    
+    if (pot_value >= 0 | pot_value < 250)
+        threshold = 10;
+    else if (pot_value >= 250 | pot_value < 500)
+        threshold = 18;
+    else if (pot_value >= 500 | pot_value < 750)
+        threshold = 25;
+    else 
+        threshold = 32;
+    
+    
+    
     
     // Initialize custom Interrupt Handler which acquires data from ADC
     TMR2_SetInterruptHandler(TMR2_EMG_InterruptHandler);
@@ -218,7 +237,7 @@ void main(void)
                 if(mode == 0)
                 {
                     // Turn motor at muscle flex & Turn back motor at muscle release
-                    if(result>= 25 && sent_1 == 0)
+                    if(result>= threshold && sent_1 == 0)
                     {
                         //Send Character '1' over UART to SLAVE MCU to turn motor Clockwise
                         printf("#1 P1000 #2 P1000 #3 P1000 #4 P1000 #5 P1000 T800\r");
@@ -228,7 +247,7 @@ void main(void)
                         sent_1 = 1;
                         sent_0 = 0;
                     }
-                    else if(result<25 && sent_0 == 0)
+                    else if(result<threshold && sent_0 == 0)
                     {
                         //Send Character '0' over UART to SLAVE MCU to turn motor Counter-Clockwise
                         printf("#1 P2000 #2 P2000 #3 P2000 #4 P2000 #5 P2000 T800\r");
@@ -243,7 +262,7 @@ void main(void)
                 else //Mode 1
                 {
                     // Turn motor at Muscle flex & Turn back motor at next muscle flex
-                    if(result>= 25 && flex_flag == 0)
+                    if(result>= threshold && flex_flag == 0)
                     {
                         flex_flag = 1;
                         
@@ -262,7 +281,7 @@ void main(void)
                         
                     }
                     
-                    else if(result< 25 && flex_flag == 1)
+                    else if(result< threshold && flex_flag == 1)
                     {
                         flex_flag = 0;
                     }
